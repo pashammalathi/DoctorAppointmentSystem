@@ -48,7 +48,7 @@ DoctorAppointmentSystem.java
 
 ---
 ## code
-code/DoctorAppointmentSystem.java
+src/DoctorAppointmentSystem.java
 
 ## How to Run
 
